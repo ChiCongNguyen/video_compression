@@ -7,5 +7,5 @@ Huong dan
 
 Terminal:
 
-cd /Users/chicong/video_compression
+cd /Users/<username>/video_compression
 ./compress_videos.sh
